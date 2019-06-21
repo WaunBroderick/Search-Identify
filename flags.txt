@@ -1,0 +1,4 @@
+A flag was found in photo: Positive-Russia.jpg, It is most likely to from the Nation: Russia
+A flag was found in photo: Positive-USA.jpg, It is most likely to from the Nation:USA
+A flag was found in photo: Positive-China.jpeg, It is most likely to from the Nation: China
+A flag was found in photo: Positive-Meixco.jpg, It is most likely to from the Nation: Mexico
