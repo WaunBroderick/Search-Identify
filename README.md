@@ -1,3 +1,2 @@
 # Operation_Search_and_Identify
-
-PH
+A jupyter notebook learning aid for my medium Article
